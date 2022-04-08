@@ -1,5 +1,5 @@
 import math
-x =int(input("Enter horizontal component (x): "))
+x =float(input("Enter horizontal component (x): "))
 g =float(input("Enter acceleration due to gravity (g): "))
 v=float(input("Enter initial velocity (v): "))
 theta=float(input("Enter angle: "))
